@@ -1,0 +1,69 @@
+# Power BI Project Files
+*.pbi
+*.pbix.bak
+.pbi
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Node modules (if using any Node tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Large files
+*.psd
+*.ai
+
+# Output/Build directories
+dist/
+build/
+output/
+
+# Debug files
+*.dmp
