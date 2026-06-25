@@ -44,7 +44,7 @@ The dashboard displays four critical business metrics at the top:
 
 ### **1. KPI Summary Cards**
 
-!\[KPI Cards](https://via.placeholder.com/1200x150?text=KPI+Summary+Cards)
+
 
 **Displays:**
 
