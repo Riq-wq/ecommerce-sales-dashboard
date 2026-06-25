@@ -33,9 +33,9 @@ The dashboard displays four critical business metrics at the top:
 
 **Business Insights:**
 
-* Strong revenue generation of ₹438K from 500 orders
-* Healthy profit margin of ₹37K
-* Average order value of ₹121K demonstrates substantial transaction sizes
+* Strong revenue generation of 438K from 500 orders
+* Healthy profit margin of 37K
+* Average order value of 121K demonstrates substantial transaction sizes
 * Total 6,000 units sold across product categories
 
 
@@ -48,10 +48,10 @@ The dashboard displays four critical business metrics at the top:
 
 **Displays:**
 
-* Sum of Amount (Total Revenue): ₹438K
-* Sum of Profit: ₹37K
+* Sum of Amount (Total Revenue): 438K
+* Sum of Profit: 37K
 * Sum of Quantity: 6K units
-* Average Order Value (AOV): ₹121K
+* Average Order Value (AOV): 121K
 
 **Key Insight:** Strong overall performance with consistent order values
 
