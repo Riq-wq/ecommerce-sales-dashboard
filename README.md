@@ -237,25 +237,6 @@ The dashboard displays four critical business metrics at the top:
 
 
 
-## &#x20;Project Structure
-
-
-ecommerce-sales-dashboard/
-├── Ecommerce\_Sales\_Dashboard.pbix    # Main Power BI File
-├── README.md                         # This documentation
-├── .gitignore                        # Git configuration
-├── data/
-│   ├── Orders.csv                   # 500 customer orders
-│   └── Details.csv                  # 1,500 order line items
-└── screenshots/
-    ├── dashboard-overview.png       # Main dashboard view
-    ├── amount-by-state.png         # Revenue by state
-    ├── profit-by-subcategory.png   # Profit analysis
-    ├── profit-by-month.png         # Monthly trends
-    ├── top-customers.png           # Customer analysis
-    ├── payment-methods.png         # Payment distribution
-    └── category-distribution.png   # Category breakdown
-
 
 &#x20;Data Sources \& Structure
 
