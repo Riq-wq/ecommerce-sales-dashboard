@@ -339,7 +339,7 @@ B-26093, 2847, 712, 8, Electronics, Printers, Credit Card
 
 bash
 # Clone the repository
-git clone https://github.com/YOUR\_USERNAME/ecommerce-sales-dashboard.git
+https://github.com/Riq-wq/ecommerce-sales-dashboard.git
 
 # Navigate to folder
 cd ecommerce-sales-dashboard
