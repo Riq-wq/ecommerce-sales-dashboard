@@ -33,9 +33,9 @@ The dashboard displays four critical business metrics at the top:
 
 **Business Insights:**
 
-* Strong revenue generation of ₹438K from 500 orders
-* Healthy profit margin of ₹37K
-* Average order value of ₹121K demonstrates substantial transaction sizes
+* Strong revenue generation of 438K from 500 orders
+* Healthy profit margin of 37K
+* Average order value of 121K demonstrates substantial transaction sizes
 * Total 6,000 units sold across product categories
 
 
@@ -44,14 +44,14 @@ The dashboard displays four critical business metrics at the top:
 
 ### **1. KPI Summary Cards**
 
-!\[KPI Cards](https://via.placeholder.com/1200x150?text=KPI+Summary+Cards)
+
 
 **Displays:**
 
-* Sum of Amount (Total Revenue): ₹438K
-* Sum of Profit: ₹37K
+* Sum of Amount (Total Revenue): 438K
+* Sum of Profit: 37K
 * Sum of Quantity: 6K units
-* Average Order Value (AOV): ₹121K
+* Average Order Value (AOV): 121K
 
 **Key Insight:** Strong overall performance with consistent order values
 
@@ -237,25 +237,6 @@ The dashboard displays four critical business metrics at the top:
 
 
 
-## &#x20;Project Structure
-
-
-ecommerce-sales-dashboard/
-├── Ecommerce\_Sales\_Dashboard.pbix    # Main Power BI File
-├── README.md                         # This documentation
-├── .gitignore                        # Git configuration
-├── data/
-│   ├── Orders.csv                   # 500 customer orders
-│   └── Details.csv                  # 1,500 order line items
-└── screenshots/
-    ├── dashboard-overview.png       # Main dashboard view
-    ├── amount-by-state.png         # Revenue by state
-    ├── profit-by-subcategory.png   # Profit analysis
-    ├── profit-by-month.png         # Monthly trends
-    ├── top-customers.png           # Customer analysis
-    ├── payment-methods.png         # Payment distribution
-    └── category-distribution.png   # Category breakdown
-
 
 &#x20;Data Sources \& Structure
 
@@ -358,7 +339,7 @@ B-26093, 2847, 712, 8, Electronics, Printers, Credit Card
 
 bash
 # Clone the repository
-git clone https://github.com/YOUR\_USERNAME/ecommerce-sales-dashboard.git
+https://github.com/Riq-wq/ecommerce-sales-dashboard.git
 
 # Navigate to folder
 cd ecommerce-sales-dashboard
