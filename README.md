@@ -26,17 +26,17 @@ The dashboard displays four critical business metrics at the top:
 
 |Metric|Value|Definition|
 |-|-|-|
-|**Sum of Amount**|**438K**|Total revenue generated from all orders|
-|**Sum of Profit**|**37K**|Total profit earned across all transactions|
-|**Sum of Quantity**|**6K**|Total units sold across all products|
-|**Sum of AOV**|**121K**|Average Order Value - average revenue per order|
+|**Sum of Amount**|**$437,771**|Total revenue generated from all orders|
+|**Sum of Profit**|**$36,963**|Total profit earned across all transactions|
+|**Sum of Quantity**|**5,615**|Total units sold across all products|
+|**Sum of AOV**|**$876**|Average Order Value - average revenue per order|
 
 **Business Insights:**
 
-* Strong revenue generation of 438K from 500 orders
-* Healthy profit margin of 37K
-* Average order value of 121K demonstrates substantial transaction sizes
-* Total 6,000 units sold across product categories
+* Strong revenue generation of $437K from 500 orders
+* Healthy profit margin of 8.4%
+* Average order value of $876 demonstrates consistent transaction sizes
+* Total 5,615 units sold across product categories
 
 
 
@@ -48,12 +48,12 @@ The dashboard displays four critical business metrics at the top:
 
 **Displays:**
 
-* Sum of Amount (Total Revenue): 438K
-* Sum of Profit: 37K
-* Sum of Quantity: 6K units
-* Average Order Value (AOV): 121K
+* Sum of Amount (Total Revenue): $437,771
+* Sum of Profit: $36,963
+* Sum of Quantity: 5,615 units
+* Average Order Value (AOV): $876
 
-**Key Insight:** Strong overall performance with consistent order values
+**Key Insight:** Strong overall performance with consistent order values across 500 orders
 
 
 
@@ -426,9 +426,9 @@ Hover over:
 
 ### **Revenue \& Sales Performance**
 
-**Total Revenue:** 438K  
-**Total Profit:** 37K  
-**Profit Margin:** 8.4% (37K/438K)
+**Total Revenue:** $437,771  
+**Total Profit:** $36,963  
+**Profit Margin:** 8.4% ($36,963/$437,771)
 
 **Geographic Performance:**
 
@@ -716,10 +716,10 @@ A: Ensure CSV files are in the `data/` folder with correct filenames. Update pat
 A: Yes, right-click any chart → "Export Data" to download as Excel or CSV format.
 
 **Q: How are the KPI values calculated?**  
-A: Sum of Amount = total from all Details Amount column. Similar aggregations for Profit, Quantity, and AOV.
+A: Sum of Amount = total from all Details Amount column. Similar aggregations for Profit, Quantity, and AOV.  
 
 **Q: What does AOV mean?**  
-A: AOV (Average Order Value) = Total Amount / Number of Orders = 438K / 500 = 876 (displayed as 121K likely with different calculation)
+A: AOV (Average Order Value) = Total Amount / Number of Orders = $437,771 / 500 = $876
 
 **Q: How frequently should I update the dashboard?**  
 A: Monthly or quarterly depending on business requirements and data availability.
